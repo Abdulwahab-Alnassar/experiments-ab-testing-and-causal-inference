@@ -23,4 +23,10 @@
 | [book_search_preview.ipynb](book_search_preview.ipynb) | بيانات المشروع والسؤال والفرضية والتصميم واختبار ثبات التخصيص |
 | README.md | ملخص المشروع وطريقة فتح الدفتر |
 
-إعداد عبدالوهاب الناصر. [أكاديمية سدايا على GitHub](https://github.com/SDAIAAcademy)
+## فريق A&Y&F
+
+1. عبدالوهاب النصار
+2. يوسف المطيري
+3. فراس الناصر
+
+[أكاديمية سدايا على GitHub](https://github.com/SDAIAAcademy)
