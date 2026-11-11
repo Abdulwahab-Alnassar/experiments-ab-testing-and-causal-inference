@@ -1,3 +1,4 @@
+
 # Experiments, A/B Testing and Causal Inference
 
 **المشروع: معاينة المحتوى في نتائج البحث عن الكتب.**
@@ -57,6 +58,8 @@ python main.py
 | [book_search_preview.ipynb](book_search_preview.ipynb) | بيانات المشروع والسؤال والفرضية والتصميم واختبار ثبات التخصيص وحسابات العينة وتحليل اليوم الثالث |
 | [main.py](main.py) | توليد البيانات والتحقق منها وإجراء التحليل وحفظ النتائج والرسم |
 | [requirements.txt](requirements.txt) | إصدارات مكتبات التشغيل |
+| [report.md](report.md) | تقرير اليوم الرابع، النتائج والقيود والتوصية |
+| [presentation.html](presentation.html) | عرض الفريق التقديمي لعشر دقائق |
 | README.md | ملخص المشروع وطريقة فتح الدفتر |
 
 ## فريق A&Y&F
